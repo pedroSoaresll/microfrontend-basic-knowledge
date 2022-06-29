@@ -14,5 +14,7 @@ And now, you can enter in each application isolated or enter in the container ap
 
 ## Basic to know
 Container -> is the application that keeps or use other applications.
+
 Cart -> is a isolated application
+
 Products -> is a isolated application
